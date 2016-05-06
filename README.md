@@ -1,2 +1,2 @@
 # toybot
-toybot, a toy robot that moves as you zap it
+repository moved to https://github.com/zrrtcs/robotoy
